@@ -33,3 +33,6 @@ Tools Used
 
 Power BI, Python (for data cleaning and exploratory data analysis), Jupyter Notebook, SQL, Canva for design templates
 
+Check out my dashboard: https://app.powerbi.com/links/FPTwk-SEi2?ctid=8d281d1d-9c4d-4bf7-b16e-032d15de9f6c&pbi_source=linkShare
+
+Watch a demo: https://drive.google.com/file/d/10ySaJpRnRHh2x_cz30na4rNqEQ7mPLxb/view?usp=sharing
